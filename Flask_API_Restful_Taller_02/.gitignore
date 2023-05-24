@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# DB stuff:
+test.db
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
