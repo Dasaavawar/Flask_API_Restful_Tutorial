@@ -1,2 +1,2 @@
-# Taller API Flask
-API RESTful en Flask. Este es el código del taller para crear una API REST con Flask, se crea un CRUD básico y se almacenan los datos en base de datos utilizando el ORM SQLAlchemy.
+# Tutorial 01 API Flask
+API RESTful in Flask. This is the code from tutorial to create an API REST with Flask, it's a basic CRUD and data can be stored in the database by using SQLAlchemy's ORM.
