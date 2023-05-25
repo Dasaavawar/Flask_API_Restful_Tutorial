@@ -21,7 +21,7 @@ To run the application follow the instructions below:
 ## Run
 * ```$ flask run -h 0.0.0.0```
 
-## Consuming the virtual services
+## Using the virtual services
 * Use Postman (or any equivalent tool) to realize the post requests to the respective available endpoints. 
 * Route Endpoint 1 [POST]: ```http://ip_servidor:5000/cipher```
 * Route Endpoint 2 [POST]: ```http://ip_servidor:5000/decipher```
